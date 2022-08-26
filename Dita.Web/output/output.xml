@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC " -//OASIS//DTD DITA Map//EN" "output.xml">
+ <map id="contentEngineering">
+<author >
+<image >
+<xref href="https://images.ctfassets.net/wp8xllxttby8/617qDs1u983leRNfv31tQu/5d34239ef1690f894c1deaba6a0ea6d6/contentful-logo.png"></xref>
+<alt >contentful</alt>
+<othermeta name="imageType">png</othermeta>
+<title ></title></image>
+<othermeta name="role">Author</othermeta>
+<othermeta name="expertiseArea">Developer</othermeta>
+<firstname >Test</firstname>
+<lastname >Test</lastname>
+<othermeta name="position title">Developer</othermeta></author>
+<title >Content Engineering Article</title>
+<image >
+<xref href="https://images.ctfassets.net/wp8xllxttby8/617qDs1u983leRNfv31tQu/5d34239ef1690f894c1deaba6a0ea6d6/contentful-logo.png"></xref>
+<alt >contentful</alt>
+<othermeta name="imageType">png</othermeta>
+<title ></title></image>
+<concept ></concept>
+<created date="2022-04-04 12:00:00 AM"></created>
+<revised revised="2022-04-06 12:00:00 AM"></revised>
+<concept >
+<created date="2022-04-04 1:00:00 AM"></created>
+<revised revised="2022-04-08 2:00:00 AM"></revised>
+<ph >New paragrpah</ph></concept></map>

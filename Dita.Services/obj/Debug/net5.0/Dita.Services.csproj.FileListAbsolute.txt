@@ -1,0 +1,12 @@
+C:\Users\ASUS\Projects\Dita\Dita.Services\obj\Debug\net5.0\Dita.Services.csproj.AssemblyReference.cache
+C:\Users\ASUS\Projects\Dita\Dita.Services\obj\Debug\net5.0\Dita.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Projects\Dita\Dita.Services\obj\Debug\net5.0\Dita.Services.AssemblyInfoInputs.cache
+C:\Users\ASUS\Projects\Dita\Dita.Services\obj\Debug\net5.0\Dita.Services.AssemblyInfo.cs
+C:\Users\ASUS\Projects\Dita\Dita.Services\obj\Debug\net5.0\Dita.Services.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Projects\Dita\Dita.Services\bin\Debug\net5.0\Dita.Services.deps.json
+C:\Users\ASUS\Projects\Dita\Dita.Services\bin\Debug\net5.0\Dita.Services.dll
+C:\Users\ASUS\Projects\Dita\Dita.Services\bin\Debug\net5.0\Dita.Services.pdb
+C:\Users\ASUS\Projects\Dita\Dita.Services\obj\Debug\net5.0\Dita.Services.dll
+C:\Users\ASUS\Projects\Dita\Dita.Services\obj\Debug\net5.0\refint\Dita.Services.dll
+C:\Users\ASUS\Projects\Dita\Dita.Services\obj\Debug\net5.0\Dita.Services.pdb
+C:\Users\ASUS\Projects\Dita\Dita.Services\obj\Debug\net5.0\ref\Dita.Services.dll

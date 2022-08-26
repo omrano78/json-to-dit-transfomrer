@@ -1,0 +1,17 @@
+C:\Users\ASUS\Projects\Dita\src\bin\Debug\net6.0\Dita.Services.exe
+C:\Users\ASUS\Projects\Dita\src\bin\Debug\net6.0\Dita.Services.deps.json
+C:\Users\ASUS\Projects\Dita\src\bin\Debug\net6.0\Dita.Services.runtimeconfig.json
+C:\Users\ASUS\Projects\Dita\src\bin\Debug\net6.0\Dita.Services.dll
+C:\Users\ASUS\Projects\Dita\src\bin\Debug\net6.0\Dita.Services.pdb
+C:\Users\ASUS\Projects\Dita\src\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\Dita.Services.csproj.AssemblyReference.cache
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\Dita.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\Dita.Services.AssemblyInfoInputs.cache
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\Dita.Services.AssemblyInfo.cs
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\Dita.Services.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\Dita.Services.csproj.CopyComplete
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\Dita.Services.dll
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\refint\Dita.Services.dll
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\Dita.Services.pdb
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\Dita.Services.genruntimeconfig.cache
+C:\Users\ASUS\Projects\Dita\src\obj\Debug\net6.0\ref\Dita.Services.dll

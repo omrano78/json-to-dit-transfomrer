@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ixr9Ju8NQ3wMCoF/SSH2SAG5dvrzfAdblYOh7i+n72mu4iDRuVieJPc34nK6HFJnL6w8rnTtLvFPeHFswDLlgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Projects\\Dita\\src\\Dita.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
